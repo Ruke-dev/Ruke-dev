@@ -3,7 +3,6 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · ruke-dev</sub></p>
 <h1>ruke-dev</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>Not A Vibe Coder</p>
